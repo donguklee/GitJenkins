@@ -12,7 +12,7 @@
         <div class="col-md-4">
             <h2>Getting started</h2>
             <p>
-                Second Testing for push testestest
+                Second Testing for push test
             </p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
